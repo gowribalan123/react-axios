@@ -1,0 +1,19 @@
+*{
+
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FF4D45;
+  }
+  select{
+    margin:5px;
+    width: 150px;
+    
+  
+  }
+ 
+  
