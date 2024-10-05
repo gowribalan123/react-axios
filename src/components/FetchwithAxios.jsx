@@ -48,7 +48,7 @@ useEffect(()=>{
       <ul>
           {items.map((item) => ( 
          <li key={item}>
-            {item.id}:{item.name}  
+            {item.id }  :  { item.name}  
 
         </li>  // Display id and name  
 
